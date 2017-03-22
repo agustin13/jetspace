@@ -1,3 +1,4 @@
+// change image js
 function light(sw) {
     var pic;
     if (sw == 0) {
